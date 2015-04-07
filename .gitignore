@@ -1,0 +1,6 @@
+.settings/
+.project
+.idea/
+*.iml
+test
+#忽略的git文件
